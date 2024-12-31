@@ -46,7 +46,7 @@ The immense energy released during an earthquake is what makes these natural eve
 
 To put this into perspective, a magnitude 7 earthquake releases energy equivalent to the detonation of approximately 500,000 tons of TNT, or about 33 times the energy released by the atomic bomb dropped on Hiroshima, which was estimated at 15,000 tons of TNT. This colossal force translates into intense ground shaking capable of toppling buildings, fracturing roadways, and damaging critical infrastructure like water lines and power grids. The destruction extends beyond structural damage; landslides, liquefaction, and fires caused by ruptured gas lines often compound the devastation.
 
-[![Magnitude Energy Release](/Images/energy.png)](https://logancorrea.github.io/Portfolio/Applied%20Data%20Visualization/Images/energy.html "Click for Interactivity")
+[![Magnitude Energy Release](/Images/energy.png)](https://logancorrea.github.io/Earthquake%20Risk%20in%20Utah/Images/energy.html "Click for Interactivity")
 
 <sub>**Figure 2.** This figure illustrates the relationship between earthquake magnitude and energy release, measured in tons of TNT. Highlighted are significant Utah earthquakes, including the 2020 Magna earthquake (6,700 tons of TNT) and the 1901 Richfield earthquake. It models a potential Wasatch Front earthquake (2020–2070) with a magnitude of 6.75+, releasing nearly 220,000 tons of TNT.</sub>
 
